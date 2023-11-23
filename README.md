@@ -9,6 +9,8 @@ github  https://github.com/  pull komutunu deniyorum.
 ---
 [Markdown isaretleri ve kullanimi](https://commonmark.org/help/)
 ---
+[Markdown isaretlerinde kaynakca - tablo yapimi](https://medium.com/deep-learning-turkiye/t%C3%BCrk%C3%A7e-markdown-rehberi-61779d2e2a96)
+---
 [notion.so sitesi markdownli readme dosyalari kolaylikla ve daha guzel sekilde aciklama dosyalari hazirlamamizi saglar, typora da oyle ama o ucretli uygulama.](https://www.notion.so/product/projects)
 ---
 [vakademi youtube kanalinde hakan yalcinkaya  markdown ile ilgili  ek video paylasmis](https://www.youtube.com/watch?v=o7GZp_KGQQw&list=PLYcudjctIk0cIVBDop4V5lFqAdrHAfwRR&index=15)
@@ -64,3 +66,4 @@ function helloWorld(){
 > alinti yapilan metin
 
 ![kodluyoru logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+
