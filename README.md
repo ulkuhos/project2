@@ -11,6 +11,8 @@ github  https://github.com/  pull komutunu deniyorum.
 ---
 [Markdown isaretlerinde kaynakca - tablo yapimi](https://medium.com/deep-learning-turkiye/t%C3%BCrk%C3%A7e-markdown-rehberi-61779d2e2a96)
 ---
+[Markdown patikadev  kaynakca - tablo yapimi](https://academy.patika.dev/tr/courses/git/markdown-nedir-nasil-kullaniriz-)
+---
 [notion.so sitesi markdownli readme dosyalari kolaylikla ve daha guzel sekilde aciklama dosyalari hazirlamamizi saglar, typora da oyle ama o ucretli uygulama.](https://www.notion.so/product/projects)
 ---
 [vakademi youtube kanalinde hakan yalcinkaya  markdown ile ilgili  ek video paylasmis](https://www.youtube.com/watch?v=o7GZp_KGQQw&list=PLYcudjctIk0cIVBDop4V5lFqAdrHAfwRR&index=15)
@@ -67,3 +69,11 @@ function helloWorld(){
 
 ![kodluyoru logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
+---
+| ilk sütun | ikinci sütun| 
+|-----------|-------------|
+| ilk sütun | ikinci sütun|
+|-----------|-------------|
+| ilk sütun | ikinci sütun|
+|-----------|-------------|
+| 1 | Açıklama | Fiyatı |
