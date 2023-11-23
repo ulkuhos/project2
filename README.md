@@ -41,6 +41,10 @@ function helloWorld(){
 
 *italic* **bold** ***bolditalic***
 
+1. list 1
+2. list 2
+3. list 3
+
 [Google'a gitmek için tıklayınız](https://google.com)
 --- 
 - birden fazla çizgi koyup çizgi çizebiliriz
