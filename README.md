@@ -9,6 +9,8 @@ github  https://github.com/  pull komutunu deniyorum.
 ---
 [Markdown isaretleri ve kullanimi](https://commonmark.org/help/)
 ---
+[notion.so sitesi markdownli readme dosyalari kolaylikla ve daha guzel sekilde aciklama dosyalari hazirlamamizi saglar, typora da oyle ama o ucretli uygulama.](https://www.notion.so/product/projects)
+---
 
 ---
 backtick işreti yazılımcılar için çok önemli ` yani yandan tek tırnak işareti. àltgr ve virgul ile yapılır. arasında yazdığımız komutları mono font ile yazıyor ve fontu değiştiriyor background ile, blok icerisine aliyor .ornek
