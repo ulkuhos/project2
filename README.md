@@ -63,4 +63,4 @@ function helloWorld(){
 
 > alinti yapilan metin
 
-![patika resmi](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.patika.dev%2Fbootcamp%2Fstaging-test&psig=AOvVaw2mjUPp2eLwf5MOeNmNBj3Z&ust=1700866941199000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDOxKGd24IDFQAAAAAdAAAAABAD)
+![kodluyoru logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
