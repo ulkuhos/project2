@@ -42,7 +42,13 @@ function helloWorld(){
 *italic* **bold** ***bolditalic***
 
 1. list 1
+
+    i. Alt liste elemanı
+
+    ii. Alt lise elemanı
 2. list 2
+
+    i. Alt liste elemanı
 3. list 3
 
 [Google'a gitmek için tıklayınız](https://google.com)
@@ -54,3 +60,7 @@ function helloWorld(){
 
 ***
 üç yıldız da çizgi çiziyor.
+
+> alinti yapilan metin
+
+![patika resmi](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.patika.dev%2Fbootcamp%2Fstaging-test&psig=AOvVaw2mjUPp2eLwf5MOeNmNBj3Z&ust=1700866941199000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDOxKGd24IDFQAAAAAdAAAAABAD)
