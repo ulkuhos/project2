@@ -11,7 +11,7 @@ github  https://github.com/  pull komutunu deniyorum.
 ---
 [notion.so sitesi markdownli readme dosyalari kolaylikla ve daha guzel sekilde aciklama dosyalari hazirlamamizi saglar, typora da oyle ama o ucretli uygulama.](https://www.notion.so/product/projects)
 ---
-
+[vakademi youtube kanalinde hakan yalcinkaya  markdown ile ilgili  ek video paylasmis](https://www.youtube.com/watch?v=o7GZp_KGQQw&list=PLYcudjctIk0cIVBDop4V5lFqAdrHAfwRR&index=15)
 ---
 backtick işreti yazılımcılar için çok önemli ` yani yandan tek tırnak işareti. àltgr ve virgul ile yapılır. arasında yazdığımız komutları mono font ile yazıyor ve fontu değiştiriyor background ile, blok icerisine aliyor .ornek
 ```
@@ -31,10 +31,7 @@ function helloWorld(){
 }
 ```
 ---
-[vakademi youtube kanalinde hakan yalcinkaya  markdown ile ilgili  ek video paylasmis](https://www.youtube.com/watch?v=o7GZp_KGQQw&list=PLYcudjctIk0cIVBDop4V5lFqAdrHAfwRR&index=15)
----
-
-markdown özellikleri
+# markdown özellikleri
 # ->h1 basliklar
 ## ->h2 
 ### ->h3
