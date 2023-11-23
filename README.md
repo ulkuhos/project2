@@ -70,10 +70,6 @@ function helloWorld(){
 ![kodluyoru logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
 ---
-| ilk sütun | ikinci sütun| 
-|-----------|-------------|
-| ilk sütun | ikinci sütun|
-|-----------|-------------|
-| ilk sütun | ikinci sütun|
-|-----------|-------------|
-| 1 | Açıklama | Fiyatı |
+| ilk sütun | ikinci sütun| uc sütun | dort sütun| 
+| ilk sütun | ikinci sütun| ilk sütun | ikinci sütun|
+| 1 | Açıklama | Fiyatı | nasıl|
