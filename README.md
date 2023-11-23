@@ -73,5 +73,5 @@ function helloWorld(){
 | ilk sütun | ikinci sütun| uc sütun | dort sütun| 
 |-----------|-----------|--------|---------|
 | ilk sütun | ikinci sütun| uc sütun | dort sütun|
-|-----------|-----------|--------|---------|
+| ilk sütun | ikinci sütun| uc sütun | dort sütun|
 | 1 | Açıklama | Fiyatı | nasıl|
