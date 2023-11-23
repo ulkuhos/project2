@@ -1,14 +1,14 @@
-[Markdown sitesi ](https://commonmark.org/)
----
-[Markdown isaretleri ve kullanimi](https://commonmark.org/help/)
----
 # deneme
-
 ## alt bilgi
 markdown ekleme örnek calisma
 [lorem ipsum](http://google.com)
 
 github  https://github.com/  pull komutunu deniyorum.
+---
+[Markdown sitesi ](https://commonmark.org/)
+---
+[Markdown isaretleri ve kullanimi](https://commonmark.org/help/)
+---
 
 ---
 backtick işreti yazılımcılar için çok önemli ` yani yandan tek tırnak işareti. àltgr ve virgul ile yapılır. arasında yazdığımız komutları mono font ile yazıyor ve fontu değiştiriyor background ile, blok icerisine aliyor .ornek
